@@ -14,15 +14,17 @@
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** PHP, JavaScript, SQL  
-- **Frameworks & Tools:** Laravel, React, Livewire, TailwindCSS  
+- **Languages:** PHP, JavaScript, SQL, Java, Flutter
+- **Frameworks & Tools:** Laravel, React, Livewire, VueJS, TailwindCSS  
 - **Other Skills:** Git, REST API, MySQL, AWS S3, Leaflet.js  
 
 ---
 
 ## 📫 Get in Touch  
-- 💼 LinkedIn: [linkedin.com/in/kautsar-quraisy-al-hamidy](https://www.linkedin.com/in/kautsar-quraisy-al-hamidy)  
-- 📧 Email: kasyim15@gmail.com  
+
+- 💼 [LinkedIn](https://linkedin.com/in/kautsar-quraisy-al-hamidy)  
+- 🧑‍💻 [GitHub](https://github.com/Sarssxd)  
+- ✉️ Email: kasyim15@gmail.com 
 
 ---
 ✨ Always learning, building, and sharing knowledge 🚀

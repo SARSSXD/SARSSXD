@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋, I'm Kautsar Quraisy Al Hamidy  
 
-<!--
-**SARSSXD/SARSSXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Informatics Engineering student @ UIN Maulana Malik Ibrahim Malang  
+💻 Full-Stack Developer | Backend Enthusiast 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 About Me  
+- 🔭 Currently working on backend & web development projects using **Laravel** and **React**  
+<!-- 🌱 Exploring **Networking** and **Cybersecurity** through community projects (Leader @ ETH-0)-->  
+- 👨‍🏫 Active as a **Lab Assistant** for Java Programming, Networking, Database, Web Programming, and Software Engineering  
+- 🤝 Open to collaboration on web apps 
+
+---
+
+## 🛠️ Tech Stack  
+- **Languages:** PHP, JavaScript, SQL  
+- **Frameworks & Tools:** Laravel, React, Livewire, TailwindCSS  
+- **Other Skills:** Git, REST API, MySQL, AWS S3, Leaflet.js  
+
+---
+
+## 📫 Get in Touch  
+- 💼 LinkedIn: [linkedin.com/in/kautsar-quraisy-al-hamidy](https://www.linkedin.com/in/kautsar-quraisy-al-hamidy)  
+- 📧 Email: kasyim15@gmail.com  
+
+---
+✨ Always learning, building, and sharing knowledge 🚀

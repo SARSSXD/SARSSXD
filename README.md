@@ -6,16 +6,16 @@
 ---
 
 ## 🌟 About Me  
-- 🔭 Currently working on backend & web development projects using **Laravel** and **React**  
+- 🔭 Currently working on fullstack mobile apps development projects using **Laravel** and **Flutter**  
 <!-- 🌱 Exploring **Networking** and **Cybersecurity** through community projects (Leader @ ETH-0)-->  
 - 👨‍🏫 Active as a **Lab Assistant** for Java Programming, Networking, Database, Web Programming, and Software Engineering  
-- 🤝 Open to collaboration on web apps 
+- 🤝 Open to collaboration on web & mobile apps 
 
 ---
 
 ## 🛠️ Tech Stack  
-- **Languages:** PHP, JavaScript, SQL, Java, Flutter
-- **Frameworks & Tools:** Laravel, React, Livewire, VueJS, TailwindCSS  
+- **Languages:** PHP, JavaScript, SQL, Java, Dart
+- **Frameworks & Tools:** Laravel, Flutter, React, Livewire, VueJS, TailwindCSS  
 - **Other Skills:** Git, REST API, MySQL, AWS S3, Leaflet.js  
 
 ---
